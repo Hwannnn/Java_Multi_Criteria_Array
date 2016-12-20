@@ -1,0 +1,15 @@
+abcdef
+cat bcf 3
+cat baa 3
+cat cdf 2
+cat cac 2
+book ffd Tom Chong
+book ffc Tom Chong
+book	fba Jerry Pong
+end
+cat fba tom
+book dfb 5
+cat bae 1
+book abe 2
+cat bad 2
+End

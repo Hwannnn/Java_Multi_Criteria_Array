@@ -1,0 +1,11 @@
+abc
+cat ab 3
+cat ac 2
+cat cb 1
+book ac Tom Chong
+book ac Jerry Pong
+End
+cat bb 5
+book ab Marry Chong
+cat aa 2
+End

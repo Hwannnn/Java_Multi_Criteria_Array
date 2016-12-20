@@ -1,0 +1,15 @@
+abcd
+cat ab 3
+cat ac 2
+flower da 123
+flower ba tjw
+book cc Tom Chong
+book ac Jerry Pong
+End
+cat aa tom
+flower ab sam
+book da 5
+cat ba 1
+flower bb 8
+book bc 2
+End
