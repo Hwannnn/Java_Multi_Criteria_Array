@@ -1,4 +1,4 @@
-# Java_Multi_Criteria_Array
+# Java_Multi_Criteria_Array 2016/second semester
 자바 다기준 정렬
 
 -----------------------------------------------------------------------------------
