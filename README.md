@@ -1,4 +1,8 @@
-# Java_Multi_Criteria_Array 2016/second semester
+# Java_Multi_Criteria_Array
+
+2016 / second semester / java class project
+
+
 자바 다기준 정렬
 
 -----------------------------------------------------------------------------------
